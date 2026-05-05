@@ -1,0 +1,14 @@
+C:\Users\silol\C######\EventsActivity\bin\Debug\net10.0\EventsActivity.exe
+C:\Users\silol\C######\EventsActivity\bin\Debug\net10.0\EventsActivity.deps.json
+C:\Users\silol\C######\EventsActivity\bin\Debug\net10.0\EventsActivity.runtimeconfig.json
+C:\Users\silol\C######\EventsActivity\bin\Debug\net10.0\EventsActivity.dll
+C:\Users\silol\C######\EventsActivity\bin\Debug\net10.0\EventsActivity.pdb
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.AssemblyInfoInputs.cache
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.AssemblyInfo.cs
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.csproj.CoreCompileInputs.cache
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.dll
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\refint\EventsActivity.dll
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.pdb
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\EventsActivity.genruntimeconfig.cache
+C:\Users\silol\C######\EventsActivity\obj\Debug\net10.0\ref\EventsActivity.dll
